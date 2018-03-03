@@ -1,6 +1,6 @@
 <h1 align="center"> Canadian Armed Forces</h1>
 
-<img align="center" src="https://media.discordapp.net/attachments/384002203913945100/418595726147190794/No_Subtitle_And_Shadow.png" alt="https://github.com/mac7973/CAFMod">
+<img align="center" src="http://bit.ly/2tgrEkk">
 
 <!--- github --->
 <a href="http://bit.ly/2FJ0wNt">
