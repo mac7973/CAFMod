@@ -1,6 +1,6 @@
 <h1 align="center"> Canadian Armed Forces</h1>
 
-<img width = 1262 & height = 592 align="center" src="http://bit.ly/2tgrEkk" >
+<img width = 1262 & height = 592  src="http://bit.ly/2tgrEkk" >
 
 <!--- github --->
 <a href="http://bit.ly/2FJ0wNt">
